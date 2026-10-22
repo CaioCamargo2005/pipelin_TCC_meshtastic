@@ -1,0 +1,2 @@
+data,hora_no_app,origem,destino,local_origem,local_destino,distancia_m,fonte_distancia,saltos_informados,rssi_dbm,snr_db,mensagens_enviadas,mensagens_recebidas,observacao
+09/10/2026,15:40,73bc,receptor do autor,Fatec Shunji Nishimura (Pompeia),predio Vivai (Pompeia),2300,Google Maps (ferramenta Medir distancia; 2.30 km),1,-119,-11.75,,,mensagens "L" e "Oi" entregues nos dois sentidos; hora lembrada pelo autor: ~15:50; confirmar se 1 salto = recepcao direta
