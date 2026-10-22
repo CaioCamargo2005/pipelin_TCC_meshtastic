@@ -1,9 +1,3 @@
-# Pipeline de dados do TCC — cobertura Wi-Fi e enlace LoRa/Meshtastic (Fatec Pompeia)
-
-Esta pasta contém o código que gera **todos os números e figuras** dos Capítulos 3 e 4 do TCC. Não é um sistema
-rodando sozinho: é uma sequência de quatro scripts em Python que você executa em ordem, e cada um lê os arquivos
-que o anterior deixou em `saida/`.
-
 ## Como rodar
 
 Precisa de Python 3.10 ou mais novo.
